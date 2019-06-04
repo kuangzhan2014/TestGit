@@ -5,4 +5,7 @@ package com.maitianer.testgit;
  * @Date: 2019/06/04 10:11
  */
 public class Test {
+    public static void mian(String[] args){
+        
+    }
 }
